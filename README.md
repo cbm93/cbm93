@@ -10,12 +10,14 @@ I'm a Software Developer with a BSc in Computing🎓. I'm a passionate learner w
 ### Useful info:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, React, SQL, Javascript, PHP, etc.
-- 📫 &nbsp; How to reach me: </br>  <a href="(https://linkedin.com/in/colin-m-8b17641ba
-")>
+- 📫 &nbsp; How to reach me: &nbsp;  <a href="https://www.linkedin.com/in/colin-m-8b17641ba/">
     <img src="https://github.com/cbm93/cbm93/blob/main/linkedin.png"
-         alt="Linkedin">
+         alt="Linkedin" >
   </a>
   
+  
+
+
 
 
 
