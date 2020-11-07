@@ -10,8 +10,7 @@ I'm a Software Developer with a BSc in Computing🎓. I'm a passionate learner w
 ### Useful info:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, React, SQL, Javascript, PHP, etc.
-- 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/colin-m-8b17641ba
-)
+- 📫 &nbsp; How to reach me: [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
 
 
 
